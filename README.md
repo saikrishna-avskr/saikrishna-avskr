@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Java, and Prolog.
+🌱 I’m currently learning Java, Prolog.
 <!--
 **saikrishna-avskr/saikrishna-avskr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
